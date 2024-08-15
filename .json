@@ -1,3 +1,12 @@
-<?php
 
-// Contenu mis à jour
+{
+"test":[
+{
+"id":0
+},
+{
+"id":1
+}
+]
+}
+
